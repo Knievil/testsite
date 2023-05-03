@@ -1,0 +1,69 @@
+.cell {
+  width: 467px;
+  height: 427px;
+}
+
+.bars {
+  width: 467px;
+  height: 427px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: 2;
+  animation-direction: alternate-reverse;
+}
+
+body {
+  background-image: url('backround.jpg');
+  cursor: url('cusor.png'), default;
+}
+h1 {
+  color: DeepPink;
+  text-align: center;
+  font-family: monospace;
+  font-size: 50px;
+}
+p {
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+}
+.main {
+  border: solid;
+  color: deeppink;
+  border-color: blue;
+  margin: auto;
+  background-image: url('tile.jpg');
+}
+.cell {
+  text-align: center;
+  border: solid;
+  color: blue;
+  border-color: blue;
+  cursor: url('https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/64ec56928573c02.png'),
+    default;
+  background-image: url('https://artx.nyc3.cdn.digitaloceanspaces.com/textures/20/07/grey-brick-5efe3119673dd-1250.jpg');
+  height: 300px;
+  width: 35%;
+  float: right;
+}
+/* unvisited link */
+a:link {
+  color: pink;
+}
+/* visited link */
+a:visited {
+  color: hotpink;
+}
+/* mouse over link */
+a:hover {
+  color: deeppink;
+}
+/* selected link */
+a:active {
+  color: blue;
+}
+.bars {
+  width: 467;
+  height: 427;
+}
