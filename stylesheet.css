@@ -1,18 +1,21 @@
 .cell {
   width: 467px;
-  height: 427px;
+  height: 627px;
+  position: relative;
+  float: right;
 }
 
 .bars {
   width: 467px;
   height: 427px;
-  position: relative;
-  animation-name: example;
-  animation-duration: 4s;
-  animation-iteration-count: 2;
-  animation-direction: alternate-reverse;
-}
 
+}
+.rat {
+  width: 467px;
+  height: 627px;
+  position: relative;
+  float: right;
+}
 body {
   background-image: url('https://raw.githubusercontent.com/Knievil/testsite/main/images/backround.jpg?token=GHSAT0AAAAAACA6FPLXLGMHMXO3C3GCCPUUZCSULRQ');
   cursor: url('cusor.png'), default;
