@@ -8,7 +8,6 @@
 .bars {
   width: 467px;
   height: 427px;
-
 }
 .rat {
   width: 467px;
@@ -17,7 +16,7 @@
   float: right;
 }
 body {
-  background-image: url('https://raw.githubusercontent.com/Knievil/testsite/main/images/backround.jpg?token=GHSAT0AAAAAACA6FPLXLGMHMXO3C3GCCPUUZCSULRQ');
+  background-image: url('https://raw.githubusercontent.com/Knievil/testsite/main/images/backround.jpg?token=GHSAT0AAAAAACA6FPLWNKDB6RIO35Y7UGN4ZCSUUZQ');
   cursor: url('cusor.png'), default;
 }
 h1 {
@@ -36,7 +35,7 @@ p {
   color: deeppink;
   border-color: blue;
   margin: auto;
-  background-image: url('https://raw.githubusercontent.com/Knievil/testsite/main/images/tile.jpg?token=GHSAT0AAAAAACA6FPLWNMTHNH423JESCEAQZCSUK2A');
+  background-image: url('https://raw.githubusercontent.com/Knievil/testsite/main/images/tile.jpg?token=GHSAT0AAAAAACA6FPLWRBT42FR6HGDWSZQYZCSUTWA');
 }
 .cell {
   text-align: center;
