@@ -14,7 +14,7 @@
 }
 
 body {
-  background-image: url('backround.jpg');
+  background-image: url('https://raw.githubusercontent.com/Knievil/testsite/main/images/backround.jpg?token=GHSAT0AAAAAACA6FPLXLGMHMXO3C3GCCPUUZCSULRQ');
   cursor: url('cusor.png'), default;
 }
 h1 {
@@ -33,7 +33,7 @@ p {
   color: deeppink;
   border-color: blue;
   margin: auto;
-  background-image: url('tile.jpg');
+  background-image: url('https://raw.githubusercontent.com/Knievil/testsite/main/images/tile.jpg?token=GHSAT0AAAAAACA6FPLWNMTHNH423JESCEAQZCSUK2A');
 }
 .cell {
   text-align: center;
